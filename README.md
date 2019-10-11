@@ -3,7 +3,7 @@
 ![Alt Text](demo-pics-gifs/network-register.png)
 
 This site includes the basics of a social network. 
-You can be part of *The Network* by registering with your name, email and password.
+Everyone can be part of *The Network* by registering with a name, email and password.
 The project was made during my training at SPICED Academy Berlin. They provided me with a package.json.
 
 # Tech Stack
@@ -23,7 +23,7 @@ It's a single-page application made with:
 
 ![Alt Text](demo-pics-gifs/edit-bio.gif)
 
-On *my profile* you can upload your profile image and write your biography which both is always changeable.
+On *my profile* users can upload their profile image and write their biography which both is always changeable.
 
 ![Alt Text](demo-pics-gifs/upload-profile-image.png)
 
@@ -31,7 +31,7 @@ On *my profile* you can upload your profile image and write your biography which
 ### Find People
 
 ![Alt Text](demo-pics-gifs/find-people.png)
-On *find people* you see recently joined users and you can find people by name, go to their profiles and send friend requests which your're always able to cancel.
+On *find people* users see recently joined users and they can find users by name, go to their profile pages and send friend requests which they're always able to cancel.
 
 ![Alt Text](demo-pics-gifs/find-people.gif)
 
@@ -39,12 +39,12 @@ On *find people* you see recently joined users and you can find people by name, 
 
 ![Alt Text](demo-pics-gifs/accept-friend-request.gif)
 
-On *my friends* page you see your friends and who wants to become your friend. You can accept friendships and also you're able to end the relation to friends. 
+On *my friends* page users see their friends and who want to become their friends. They can accept friendships and also they're able to end the relation to friends. 
 
 ### Chat Room
 
 ![Alt Text](demo-pics-gifs/chat.png)
 
-In the *chatroom* you can write messages to other users that can answer directly in time.
+In the *chatroom* users can write messages to other users that can answer directly in time.
 
-You can logout and login again at any time.
+Users can logout and login again at any time.
