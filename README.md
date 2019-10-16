@@ -17,7 +17,7 @@ It's a single-page application made with:
               - Friendships with receiver, sender, accepted
               - Chats with sender, message, posted-data
 
-## Demo Social Network
+# Demo Social Network
 
 ### My Profile
 
